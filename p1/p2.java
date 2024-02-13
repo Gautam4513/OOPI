@@ -1,6 +1,7 @@
 /*Write a program to convert USD2INR and INR2USD */
 import java.util.*;
 public class p2 {
+   
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter 1 for US to INR\nenter 2 for INR to US");
